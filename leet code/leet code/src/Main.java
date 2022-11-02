@@ -1,3 +1,5 @@
+//question 2. find the average salary excluding the maximum and the minimum.
+
 public class Main {
     public static void main(String[] args)
     {
